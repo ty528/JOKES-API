@@ -1,0 +1,41 @@
+body{
+    background-color: #40A2E3;
+    font-family: "Redressed",cursive;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    padding-left: 30%;
+    margin-top: 10%;
+
+    
+    
+}
+.container{
+    border-radius: 10px;
+    box-shadow: 0 20px 20px rgb(0.1, 0.1, 0.1);
+    padding: 50px 20px;
+    width: 600px;
+    background-color: #fff;  
+    justify-content: center;  
+    text-align: center;
+    
+    
+}
+.heading{
+    text-transform: capitalize;
+    font-size: larger;
+    font-weight: bolder;
+}
+.btn{
+    background-color: #f8b627;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgb(0, 0, 0.1),0 6px 6px rgba(0, 0, 0,0.1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    size: 40;
+}
